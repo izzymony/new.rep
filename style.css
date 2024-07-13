@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+ background-color: white;
+}
+
+h1{
+ 
+  position: absolute; 
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    display: flex;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+/* Group 4 */
+.vector{
+/* position: absolute;
+width: 318.63px;
+height: 370.76px;
+left: 62px;
+top: 481px; */
+width: rem;
+position: fixed;
+top: 481px;
+width: 20px;
+width: 318.63px;
+height: 370.76px;
+}
+/* Frame 1000006975 
+
+position: absolute;
+width: 160px;
+height: 29.52px;
+left: 100px;
+top: 305px; 
+
+ */
+
+
+ button{
+    position: absolute; 
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    color: white;
+    border-radius: 2rem;
+    width: 11rem;
+    height: 3rem;
+    background: #FE2C55;
+    border: none;
+ }
+ 
